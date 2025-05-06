@@ -1,0 +1,26 @@
+Sitemap
+High-level structure
+
+                                    (1) WalkCity Home
+                                    (Main Map View)
+                                          |
+                    _____________________|______________________
+                    |                    |                     |
+                    ↓                    ↓                     ↓
+        (2) Walkability Map      (3) Record Route      (4) Report Issue
+            (Default View)              |                     |
+                    |                   |                     |
+                    ↓                   ↓                     ↓
+            (2.1) Map Details    (3.1) Recording      (4.1) Location Selection
+            (Sidebar View)         Process                    |
+                                        |                     |
+                                        ↓                     ↓
+                                 (3.2) Summary        (4.2) Issue Details
+                                 & Description               |
+                                                            ↓
+                                                     (4.3) Photo Upload
+                                                     & Submission
+
+                                        ↓
+                                 (5) Feature Guide
+                                 (Help & Features) 
